@@ -1,0 +1,11 @@
+# Compiled class files
+target/
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+*.nb-user
